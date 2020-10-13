@@ -18,13 +18,12 @@ The repository contains the following files and folders:
   - lang (language ISO code);
   - group (language group: non_copular (= East Slavic) or copular (= South and West Slavic));
   - rel (incoming syntactic relation for the verb);
-  - clause_type (as inferred from the UD annotation: simple, main, subord(inate) or coord(inate)).
+  - clause_type (as inferred from the UD annotation: simple, main, subord(inate) or coord(inate). Note that only non-first conjuncts are treated as coordinate clauses, while first conjuncts are treated as simple clauses).
 
 - ud_merge_perlang.rb: a script that goes through all UD 2.6 treebanks and merges all treebanks for the same language into a single file. Set the IN and OUT paths at the beginning of the script
 
 - data_analysis.r: an R script that performs the statistical analysis described in Section 3 and creates the figures. Make sure the necessary packages are installed, change the R directory to the folder with subj_data.csv
 
-additional model
+- model_simple.pdf: the description and results of the model (mentioned in Section 3) that was fit to clauses in simple sentences (and first conjuncts in coordinated constructions) only.
 
 
-Karsten

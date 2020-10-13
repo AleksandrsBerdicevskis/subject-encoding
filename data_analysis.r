@@ -36,10 +36,10 @@ pron1 <- dataset2[(dataset2$pronexpressed == 1) & (dataset2$group == "non_copula
 doublee <- dataset2[(dataset2$pronexpressed == 1) & ((dataset2$group == "copular") | (dataset2$group == "non_copular" & dataset2$tense == "Nonpast")),]
 index1 <- dataset2[(dataset2$pronexpressed == 0) & ((dataset2$group == "copular") | (dataset2$group == "non_copular" & dataset2$tense == "Nonpast")),]
 
-barplot(c(length(zero$rel), length(pron1$rel), length(index1$rel), length(doublee$rel)), ylim = c(0,120000), ylab = "Number of clauses", names.arg = c("Zero encoding", "Single encoding: pronoun", "Single encoding: index", "Double encoding"))
+barplot(c(length(zero$rel), length(pron1$rel), length(index1$rel), length(doublee$rel)), ylim = c(0,120000), ylab = "Number of clauses", names.arg = c("Zero encoding", "Single encoding: pronoun", "Single encoding: indexation", "Double encoding"))
 
-#run the model on main clauses only (mentioned in the article, reported in supplementary materials)
-dataset2m <- dataset2[dataset2$rel != "csubj" & dataset2$rel != "ccomp" & dataset2$rel !=  "xcomp" & dataset2$rel !=   "advcl" & dataset2$rel !=   "acl",]
+#run the model on clauses in simple sentences only (mentioned in the article, reported in supplementary materials)
+dataset2m <- dataset2[dataset2$clause_type == "simple",]
 #print(head(dataset2m))
 print("main clauses: pronouns")
 tense3m <- glmer(pronexpressed ~  tense2 * group2 + (1|lemma) + (1|lang), family=binomial(link=logit), data=dataset2m)
