@@ -36,7 +36,7 @@ pron1 <- dataset2[(dataset2$pronexpressed == 1) & (dataset2$group == "non_copula
 doublee <- dataset2[(dataset2$pronexpressed == 1) & ((dataset2$group == "copular") | (dataset2$group == "non_copular" & dataset2$tense == "Nonpast")),]
 index1 <- dataset2[(dataset2$pronexpressed == 0) & ((dataset2$group == "copular") | (dataset2$group == "non_copular" & dataset2$tense == "Nonpast")),]
 
-barplot(c(length(zero$rel), length(pron1$rel), length(index1$rel), length(doublee$rel)), ylim = c(0,120000), ylab = "Number of clauses", names.arg = c("Zero encoding", "Single encoding: pronoun", "Single encoding: indexation", "Double encoding"), cex.names=2,cex.lab=2)
+barplot(c(length(zero$rel), length(pron1$rel), length(index1$rel), length(doublee$rel)), ylim = c(0,120000), ylab = "Number of clauses", names.arg = c("Zero encoding", "Single encoding: pronoun", "Single encoding: indexation", "Double encoding"), cex.names=1.5,cex.lab=1.5)
 
 #run the model on clauses in simple sentences only (mentioned in the article, reported in supplementary materials)
 dataset2m <- dataset2[dataset2$clause_type == "simple",]
