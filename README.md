@@ -26,4 +26,5 @@ The repository contains the following files and folders:
 
 - model_simple.pdf: the description and results of the model (mentioned in Section 3) that was fit to clauses in simple sentences (and first conjuncts in coordinated constructions) only.
 
+- lang.r: a bonus (draft) script for running analyses of individual languages (not discussed in the paper).
 

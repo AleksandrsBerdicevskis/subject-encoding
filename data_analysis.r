@@ -26,7 +26,7 @@ east_nonpast <- dataset[dataset$tense != "Past" & dataset$group == "non_copular"
 swest_nonpast <- dataset[dataset$tense != "Past" & dataset$group != "non_copular",]
 swest_past <- dataset[dataset$tense == "Past" & dataset$group != "non_copular",]
 
-barplot(c(mean(east_past$pronexpressed), mean(east_nonpast$pronexpressed), mean(swest_past$pronexpressed), mean(swest_past$pronexpressed)), ylim = c(0,0.20), ylab = "Proportion of pronominal subjects", names.arg = c("East; l-participles", "East; other constructions", "South&West; l-participles", "South&West; other constructions"))
+barplot(c(mean(east_past$pronexpressed), mean(east_nonpast$pronexpressed), mean(swest_past$pronexpressed), mean(swest_past$pronexpressed)), ylim = c(0,0.20), ylab = "Proportion of pronominal subjects", names.arg = c("East; l-participles", "East; other constructions", "South&West; l-participles", "South&West; other constructions"), cex.names=1.5,cex.lab=1.5)
 
 dev.new()
 
@@ -36,7 +36,7 @@ pron1 <- dataset2[(dataset2$pronexpressed == 1) & (dataset2$group == "non_copula
 doublee <- dataset2[(dataset2$pronexpressed == 1) & ((dataset2$group == "copular") | (dataset2$group == "non_copular" & dataset2$tense == "Nonpast")),]
 index1 <- dataset2[(dataset2$pronexpressed == 0) & ((dataset2$group == "copular") | (dataset2$group == "non_copular" & dataset2$tense == "Nonpast")),]
 
-barplot(c(length(zero$rel), length(pron1$rel), length(index1$rel), length(doublee$rel)), ylim = c(0,120000), ylab = "Number of clauses", names.arg = c("Zero encoding", "Single encoding: pronoun", "Single encoding: indexation", "Double encoding"))
+barplot(c(length(zero$rel), length(pron1$rel), length(index1$rel), length(doublee$rel)), ylim = c(0,120000), ylab = "Number of clauses", names.arg = c("Zero encoding", "Single encoding: pronoun", "Single encoding: indexation", "Double encoding"), cex.names=2,cex.lab=2)
 
 #run the model on clauses in simple sentences only (mentioned in the article, reported in supplementary materials)
 dataset2m <- dataset2[dataset2$clause_type == "simple",]
