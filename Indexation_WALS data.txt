@@ -1,0 +1,222 @@
+Name	Genus	Family	Macroarea	PronSubj	Index
+Abun	North-Central Bird's Head	West Papuan	Papunesia	obligatory	absent
+Anejom	Oceanic	Austronesian	Papunesia	obligatory	absent
+Babungo	Bantoid	Niger-Congo	Africa	obligatory	absent
+Dagaare	Gur	Niger-Congo	Africa	obligatory	absent
+Drehu	Oceanic	Austronesian	Papunesia	obligatory	absent
+Gude	Biu-Mandara	Afro-Asiatic	Africa	obligatory	absent
+Haida	Haida	Haida	North America	obligatory	absent
+Hmong Njua	Hmong-Mien	Hmong-Mien	Eurasia	obligatory	absent
+Indonesian	Malayo-Sumbawan	Austronesian	Papunesia	obligatory	absent
+Ingush	Nakh	Nakh-Daghestanian	Eurasia	obligatory	absent
+Ju|'hoan	Ju-Kung	Kxa	Africa	obligatory	absent
+Koyra Chiini	Songhay	Songhay	Africa	obligatory	absent
+Khoekhoe	Khoe-Kwadi	Khoe-Kwadi	Africa	obligatory	absent
+Koyraboro Senni	Songhay	Songhay	Africa	obligatory	absent
+Lepcha	Lepcha	Sino-Tibetan	Eurasia	obligatory	absent
+Malagasy	Barito	Austronesian	Africa	obligatory	absent
+Mupun	West Chadic	Afro-Asiatic	Africa	obligatory	absent
+Ndyuka	Creoles and Pidgins	other	South America	obligatory	absent
+Palikur	Eastern Arawakan	Arawakan	South America	obligatory	absent
+Pomo (Southeastern)	Pomoan	Hokan	North America	obligatory	absent
+Sanuma	Yanomam	Yanomam	South America	obligatory	absent
+Supyire	Gur	Niger-Congo	Africa	obligatory	absent
+Trumai	Trumai	Trumai	South America	obligatory	absent
+Uradhi	Northern Pama-Nyungan	Pama-Nyungan	Australia	obligatory	absent
+Awtuw	Ram	Sepik	Papunesia	optional	absent
+Burmese	Burmese-Lolo	Sino-Tibetan	Eurasia	optional	absent
+Epena Pedee	Choco	Choco	South America	optional	absent
+Garo	Bodo-Garo	Sino-Tibetan	Eurasia	optional	absent
+Guugu Yimidhirr	Northern Pama-Nyungan	Pama-Nyungan	Australia	optional	absent
+Imonda	Border	Border	Papunesia	optional	absent
+Japanese	Japanese	Japanese	Eurasia	optional	absent
+Kayardild	Tangkic	Tangkic	Australia	optional	absent
+Khalkha	Mongolic	Altaic	Eurasia	optional	absent
+Khmu'	Palaung-Khmuic	Austro-Asiatic	Eurasia	optional	absent
+Korean	Korean	Korean	Eurasia	optional	absent
+Kayah Li (Eastern)	Karen	Sino-Tibetan	Eurasia	optional	absent
+Ladakhi	Bodic	Sino-Tibetan	Eurasia	optional	absent
+Lahu	Burmese-Lolo	Sino-Tibetan	Eurasia	optional	absent
+Lezgian	Lezgic	Nakh-Daghestanian	Eurasia	optional	absent
+Maori	Oceanic	Austronesian	Papunesia	optional	absent
+Meithei	Kuki-Chin	Sino-Tibetan	Eurasia	optional	absent
+Mlabri (Minor)	Palaung-Khmuic	Austro-Asiatic	Eurasia	optional	absent
+Mandarin	Chinese	Sino-Tibetan	Eurasia	optional	absent
+Martuthunira	Western Pama-Nyungan	Pama-Nyungan	Australia	optional	absent
+Nakanai	Oceanic	Austronesian	Papunesia	optional	absent
+Nivkh	Nivkh	Nivkh	Eurasia	optional	absent
+Rapanui	Oceanic	Austronesian	Papunesia	optional	absent
+Thai	Kam-Tai	Tai-Kadai	Eurasia	optional	absent
+Vietnamese	Viet-Muong	Austro-Asiatic	Eurasia	optional	absent
+Yidiny	Northern Pama-Nyungan	Pama-Nyungan	Australia	optional	absent
+Yoruba	Defoid	Niger-Congo	Africa	optional	absent
+Paiwan	Paiwan	Austronesian	Papunesia	optional	absent
+Sango	Ubangi	Niger-Congo	Africa	optional	absent
+Byansi	Bodic	Sino-Tibetan	Eurasia	obligatory	present
+Dumo	Western Skou	Skou	Papunesia	obligatory	present
+Dutch	Germanic	Indo-European	Eurasia	obligatory	present
+English	Germanic	Indo-European	Eurasia	obligatory	present
+Evenki	Tungusic	Altaic	Eurasia	obligatory	present
+French	Romance	Indo-European	Eurasia	obligatory	present
+German	Germanic	Indo-European	Eurasia	obligatory	present
+Khasi	Khasian	Austro-Asiatic	Eurasia	obligatory	present
+Latvian	Baltic	Indo-European	Eurasia	obligatory	present
+Ndonga	Bantoid	Niger-Congo	Africa	obligatory	present
+Russian	Slavic	Indo-European	Eurasia	obligatory	present
+Sahu	North Halmaheran	West Papuan	Papunesia	obligatory	present
+Taba	South Halmahera - West New Guinea	Austronesian	Papunesia	obligatory	present
+Maybrat	North-Central Bird's Head	West Papuan	Papunesia	optional	present
+Suena	Binanderean	Trans-New Guinea	Papunesia	optional	present
+Abkhaz	Northwest Caucasian	Northwest Caucasian	Eurasia	optional	present
+Acoma	Keresan	Keresan	North America	optional	present
+Arabic (Egyptian)	Semitic	Afro-Asiatic	Africa	optional	present
+Ainu	Ainu	Ainu	Eurasia	optional	present
+Alamblak	Sepik Hill	Sepik	Papunesia	optional	present
+Albanian	Albanian	Indo-European	Eurasia	optional	present
+Amharic	Semitic	Afro-Asiatic	Africa	optional	present
+Anêm	Anêm	Anêm	Papunesia	optional	present
+Apurinã	Purus	Arawakan	South America	optional	present
+Arawak	Caribbean Arawakan	Arawakan	South America	optional	present
+Armenian (Eastern)	Armenian	Indo-European	Eurasia	optional	present
+Arapesh (Mountain)	Kombio-Arapesh	Torricelli	Papunesia	optional	present
+Asmat	Asmat-Kamoro	Trans-New Guinea	Papunesia	optional	present
+Awa Pit	Barbacoan	Barbacoan	South America	optional	present
+Aymara (Central)	Aymaran	Aymaran	South America	optional	present
+Beja	Beja	Afro-Asiatic	Africa	optional	present
+Bilin	Central Cushitic	Afro-Asiatic	Africa	optional	present
+Berber (Middle Atlas)	Berber	Afro-Asiatic	Africa	optional	present
+Brahui	Northern Dravidian	Dravidian	Eurasia	optional	present
+Bororo	Bororoan	Bororoan	South America	optional	present
+Barasano	Tucanoan	Tucanoan	South America	optional	present
+Basque	Basque	Basque	Eurasia	optional	present
+Burushaski	Burushaski	Burushaski	Eurasia	optional	present
+Cahuilla	California Uto-Aztecan	Uto-Aztecan	North America	optional	present
+Campa (Axininca)	Pre-Andine Arawakan	Arawakan	South America	optional	present
+Chumash (Barbareño)	Chumash	Chumash	North America	optional	present
+Chukchi	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Eurasia	optional	present
+Chinantec (Lealao)	Chinantecan	Oto-Manguean	North America	optional	present
+Coos (Hanis)	Coosan	Oregon Coast	North America	optional	present
+Cubeo	Tucanoan	Tucanoan	South America	optional	present
+Cayuvava	Cayuvava	Cayuvava	South America	optional	present
+Daga	Dagan	Dagan	Papunesia	optional	present
+Diola-Fogny	Northern Atlantic	Niger-Congo	Africa	optional	present
+Dani (Lower Grand Valley)	Dani	Trans-New Guinea	Papunesia	optional	present
+Erromangan	Oceanic	Austronesian	Papunesia	optional	present
+Ewe	Kwa	Niger-Congo	Africa	optional	present
+Fula (Cameroonian)	Northern Atlantic	Niger-Congo	Africa	optional	present
+Fur	Fur	Fur	Africa	optional	present
+Gumawana	Oceanic	Austronesian	Papunesia	optional	present
+Gooniyandi	Bunuban	Bunuban	Australia	optional	present
+Greek (Modern)	Greek	Indo-European	Eurasia	optional	present
+Greenlandic (West)	Eskimo	Eskimo-Aleut	Eurasia	optional	present
+Guaraní	Tupi-Guaraní	Tupian	South America	optional	present
+Hamtai	Angan	Trans-New Guinea	Papunesia	optional	present
+Hatam	Hatam	West Papuan	Papunesia	optional	present
+Hixkaryana	Cariban	Cariban	South America	optional	present
+Halkomelem (Upriver)	Central Salish	Salishan	North America	optional	present
+Hua	Eastern Highlands	Trans-New Guinea	Papunesia	optional	present
+Hungarian	Ugric	Uralic	Eurasia	optional	present
+Ika	Arhuacic	Chibchan	South America	optional	present
+Iraqw	Southern Cushitic	Afro-Asiatic	Africa	optional	present
+Italian	Romance	Indo-European	Eurasia	optional	present
+Kewa	Engan	Trans-New Guinea	Papunesia	optional	present
+Koromfe	Gur	Niger-Congo	Africa	optional	present
+Kiowa	Kiowa-Tanoan	Kiowa-Tanoan	North America	optional	present
+Lusi	Oceanic	Austronesian	Papunesia	optional	present
+Kilivila	Oceanic	Austronesian	Papunesia	optional	present
+Kannada	Southern Dravidian	Dravidian	Eurasia	optional	present
+Kunama	Kunama	Kunama	Africa	optional	present
+Kanuri	Western Saharan	Saharan	Africa	optional	present
+Koasati	Muskogean	Muskogean	North America	optional	present
+Kobon	Madang	Trans-New Guinea	Papunesia	optional	present
+Kongo	Bantoid	Niger-Congo	Africa	optional	present
+Kurdish (Central)	Iranian	Indo-European	Eurasia	optional	present
+Karok	Karok	Karok	North America	optional	present
+Kwaza	Kwaza	Kwaza	South America	optional	present
+Lango	Nilotic	Eastern Sudanic	Africa	optional	present
+Lavukaleve	Lavukaleve	Solomons East Papuan	Papunesia	optional	present
+Limbu	Mahakiranti	Sino-Tibetan	Eurasia	optional	present
+Lakhota	Core Siouan	Siouan	North America	optional	present
+Luvale	Bantoid	Niger-Congo	Africa	optional	present
+Maba	Maban	Maban	Africa	optional	present
+Macushi	Cariban	Cariban	South America	optional	present
+Mapudungun	Araucanian	Araucanian	South America	optional	present
+Maricopa	Yuman	Hokan	North America	optional	present
+Maung	Iwaidjan	Iwaidjan	Australia	optional	present
+Mbay	Bongo-Bagirmi	Central Sudanic	Africa	optional	present
+Maranungku	Wagaydy	Western Daly	Australia	optional	present
+Muna	Celebic	Austronesian	Papunesia	optional	present
+Maidu (Northeast)	Maiduan	Penutian	North America	optional	present
+Mohawk	Northern Iroquoian	Iroquoian	North America	optional	present
+Murle	Surmic	Eastern Sudanic	Africa	optional	present
+Masalit	Maban	Maban	Africa	optional	present
+Miwok (Southern Sierra)	Miwok	Penutian	North America	optional	present
+Mangarrayi	Mangarrayi	Mangarrayi-Maran	Australia	optional	present
+Nandi	Nilotic	Eastern Sudanic	Africa	optional	present
+Navajo	Athapaskan	Na-Dene	North America	optional	present
+Nubian (Dongolese)	Nubian	Eastern Sudanic	Africa	optional	present
+Nenets	Samoyedic	Uralic	Eurasia	optional	present
+Nez Perce	Sahaptian	Penutian	North America	optional	present
+Nahuatl (Tetelcingo)	Aztecan	Uto-Aztecan	North America	optional	present
+Nkore-Kiga	Bantoid	Niger-Congo	Africa	optional	present
+Nambikuára (Southern)	Nambikuaran	Nambikuaran	South America	optional	present
+Ngiti	Lendu	Central Sudanic	Africa	optional	present
+Nunggubuyu	Nunggubuyu	Gunwinyguan	Australia	optional	present
+Nyulnyul	Nyulnyulan	Nyulnyulan	Australia	optional	present
+Oneida	Northern Iroquoian	Iroquoian	North America	optional	present
+Oromo (Harar)	Lowland East Cushitic	Afro-Asiatic	Africa	optional	present
+Otomí (Mezquital)	Otomian	Oto-Manguean	North America	optional	present
+Paumarí	Arauan	Arauan	South America	optional	present
+Paamese	Oceanic	Austronesian	Papunesia	optional	present
+Persian	Iranian	Indo-European	Eurasia	optional	present
+Quechua (Imbabura)	Quechuan	Quechuan	South America	optional	present
+Rama	Rama	Chibchan	North America	optional	present
+Remo	Munda	Austro-Asiatic	Eurasia	optional	present
+Siuslaw	Siuslawan	Oregon Coast	North America	optional	present
+Slave	Athapaskan	Na-Dene	North America	optional	present
+Semelai	Aslian	Austro-Asiatic	Eurasia	optional	present
+So	Kuliak	Eastern Sudanic	Africa	optional	present
+Spanish	Romance	Indo-European	Eurasia	optional	present
+Squamish	Central Salish	Salishan	North America	optional	present
+Swahili	Bantoid	Niger-Congo	Africa	optional	present
+Tauya	Madang	Trans-New Guinea	Papunesia	optional	present
+Tiwi	Tiwian	Tiwian	Australia	optional	present
+Tiipay (Jamul)	Yuman	Hokan	North America	optional	present
+Takelma	Takelma	Takelma	North America	optional	present
+Tlingit	Tlingit	Na-Dene	North America	optional	present
+Temiar	Aslian	Austro-Asiatic	Eurasia	optional	present
+Turkana	Nilotic	Eastern Sudanic	Africa	optional	present
+Tonkawa	Tonkawa	Tonkawa	North America	optional	present
+Teribe	Talamanca	Chibchan	North America	optional	present
+Tukang Besi	Celebic	Austronesian	Papunesia	optional	present
+Tunica	Tunica	Tunica	North America	optional	present
+Turkish	Turkic	Altaic	Eurasia	optional	present
+Una	Mek	Trans-New Guinea	Papunesia	optional	present
+Ungarinjin	Worrorran	Worrorran	Australia	optional	present
+Ura	Oceanic	Austronesian	Papunesia	optional	present
+Urubú-Kaapor	Tupi-Guaraní	Tupian	South America	optional	present
+Usan	Madang	Trans-New Guinea	Papunesia	optional	present
+Washo	Washo	Washo	North America	optional	present
+Wichita	Caddoan	Caddoan	North America	optional	present
+West Makian	North Halmaheran	West Papuan	Papunesia	optional	present
+Wardaman	Yangmanic	Yangmanic	Australia	optional	present
+Warekena	Inland Northern Arawakan	Arawakan	South America	optional	present
+Yelî Dnye	Yele	Yele	Papunesia	optional	present
+Yimas	Lower Sepik	Lower Sepik-Ramu	Papunesia	optional	present
+Yukaghir (Kolyma)	Yukaghir	Yukaghir	Eurasia	optional	present
+Yup'ik (Central)	Eskimo	Eskimo-Aleut	North America	optional	present
+Yuchi	Yuchi	Yuchi	North America	optional	present
+Yurok	Yurok	Algic	North America	optional	present
+Zoque (Copainalá)	Mixe-Zoque	Mixe-Zoque	North America	optional	present
+Zulu	Bantoid	Niger-Congo	Africa	optional	present
+Atayal	Atayalic	Austronesian	Papunesia	optional	present
+Comanche	Numic	Uto-Aztecan	North America	optional	present
+Cree (Plains)	Algonquian	Algic	North America	optional	present
+Makah	Southern Wakashan	Wakashan	North America	optional	present
+Mundari	Munda	Austro-Asiatic	Eurasia	optional	present
+Ngiyambaa	Southeastern Pama-Nyungan	Pama-Nyungan	Australia	optional	present
+Nuuchahnulth	Southern Wakashan	Wakashan	North America	optional	present
+Polish	Slavic	Indo-European	Eurasia	optional	present
+Passamaquoddy-Maliseet	Algonquian	Algic	North America	optional	present
+Yagua	Peba-Yaguan	Peba-Yaguan	South America	optional	present
+Yukulta	Tangkic	Tangkic	Australia	optional	present
