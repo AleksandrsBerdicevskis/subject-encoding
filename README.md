@@ -28,3 +28,4 @@ The repository contains the following files and folders:
 
 - lang.r: a bonus (draft) script for running analyses of individual languages (not discussed in the paper).
 
+- Indexation_WALS data.txt: data extracted from WALS that were used for the analysis in Section 2. The names of the columns are self-explanatory (Index = Indexation).
