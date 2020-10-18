@@ -43,6 +43,6 @@ print(lang)
 print("All clauses")
 dataset_all <- dataset2[dataset2$lang==lang,]
 processlang(dataset_all)
-print("Simple sentences and first conjuncts only")
+print("Simple sentences")
 dataset_s <- dataset2m[dataset2m$lang==lang,]
 processlang(dataset_s)

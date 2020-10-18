@@ -41,7 +41,7 @@ barplot(c(length(zero$rel), length(pron1$rel), length(index1$rel), length(double
 #run the model on clauses in simple sentences only (mentioned in the article, reported in supplementary materials)
 dataset2m <- dataset2[dataset2$clause_type == "simple",]
 #print(head(dataset2m))
-print("main clauses: pronouns")
+print("simple sentences")
 tense3m <- glmer(pronexpressed ~  tense2 * group2 + (1|lemma) + (1|lang), family=binomial(link=logit), data=dataset2m)
 print(summary(tense3m))
 

@@ -42,17 +42,17 @@ def check_for_subj_child(hash, sentence, lang)
 end
 
 #method for telling apart main and subordinate clauses
-def check_for_subord_child(hash, sentence)
-    subord = false
+def check_for_child(hash, sentence, childtype)
+    exists = false
     if !hash["children"].nil?
         hash["children"].each do |child|
-            if RELHASH[sentence[child]["rel"].split(":")[0]] == "subord"
-                subord = true
+            if RELHASH[sentence[child]["rel"].split(":")[0]] == childtype
+                exists = true
                 break                
             end
         end
     end
-    return subord
+    return exists
 end
 
 
@@ -182,7 +182,7 @@ langs.each do |lang|
                     #detecting clause type
                     clause_type = RELHASH[hash["rel"].split(":")[0]] #to cover subtypes like acl:relcl
                     if clause_type == "main"
-                        if !check_for_subord_child(hash, sentence)
+                        if !check_for_child(hash, sentence, "subord") and !check_for_child(hash, sentence, "coord")
                             clause_type = "simple"
                         end
                     end
