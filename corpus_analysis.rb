@@ -61,7 +61,7 @@ files = {"bel" => "Belarusian.conllu", "rus"=>"Russian.conllu", "ukr" => "Ukrain
 "cze" => "Czech.conllu", "slk" => "Slovak.conllu", "blg" => "Bulgarian.conllu", "slv" => "Slovenian.conllu","crt"=>"Croatian.conllu","srb"=>"Serbian.conllu", "test" => "test.conllu", "ocs" => "Old_Church_Slavonic.conllu", "orv" => "Old_Russian.conllu", "hsb" => "Upper_Sorbian.conllu"}
 
 #output file
-detfile = File.open("subj_data2.csv", "w:utf-8")
+detfile = File.open("subj_data.csv", "w:utf-8")
 detfile.puts "lemma\tsentence\ttense\taspect\tsperson\texpressed\tpronexpressed\tpron12expressed\tlang\tgroup\trel\tclause_type"
 
 #languages that will be processed

@@ -1,4 +1,4 @@
-lang <- "srb"
+lang <- "rus"
 dataset <- read.csv("subj_data.csv", sep="\t",dec=".", header=TRUE) 
 
 #exclude those clauses where the subject is encoded by a full NP
