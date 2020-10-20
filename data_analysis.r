@@ -1,6 +1,6 @@
 library(lmerTest)
 library(Hmisc)
-langs = c("rus", "ukr", "pol", "cze", "slk", "blg", "slv", "crt", "srb", "hsb")
+langs = c("rus", "ukr", "bel", "pol", "cze", "slk", "blg", "slv", "crt", "srb", "hsb")
 
 dataset <- read.csv("subj_data.csv", sep="\t",dec=".", header=TRUE) 
 
